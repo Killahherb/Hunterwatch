@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: HunterWatch
+## Notes: Tracks Lock and Load proc and active debuff shots on target
+## Author: Beck
+## Version: 1.4
+
+HunterWatch.lua
